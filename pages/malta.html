@@ -1,0 +1,33 @@
+---
+layout: posts-category
+title: Malta
+permalink: /malta/
+---
+<div class="row justify-content-center">
+    <div class="col-10">
+        <div class="title-box top-50">
+            <div class="align-self-center border-bottom-light-gray"></div>
+            <div class="title-box-text title-md font-300 playfair">{{ page.title }}</div>
+            <div class="align-self-center border-bottom-light-gray"></div>
+        </div>
+    </div>
+</div>
+<div class="divider-md"></div>
+<div class="row justify-content-between">
+{% for post in site.posts %}
+    {% if post.categories  contains "malta" %}
+        <div class="col-6 padding-h-md">
+            <a href="{{ post.url }}">
+                <div class="image-box-lg" style="background: url('{{ post.image }}') no-repeat; background-size: cover; background-position: center;"></div>
+                <div class="text-center padding-v-sm">    
+                    <h5>{{ post.preview-title }}</h5>
+                    <p class="font-xs font-justify gray">{{ post.excerpt }}</p>
+                    {% include share.html %}
+                </div>
+            </a>
+        </div>
+        <div class="divider"></div>  
+    {% endif %}
+{% endfor %}
+</div>
+<div class="divider"></div>

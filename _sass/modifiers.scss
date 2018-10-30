@@ -1,0 +1,115 @@
+@media screen and (min-width: 768px){
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ }
+
+}
+
+.dropdown-toggle::after {
+    display:none;
+}
+
+/* typografy */ 
+
+a {
+    color: #b81818
+}
+
+.title-md {
+    font-size: 24px;
+}
+
+.title-sm {
+    font-size: 18px;
+}
+
+.title-xs {
+    font-size: 16px;
+}
+
+.font-xs {
+    font-size: 14px;
+}
+
+.font-justify {
+    text-align: justify;
+}
+
+.font-700 {
+    font-weight: 700 !important;
+}
+
+.font-400 {
+    font-weight: 400 !important;
+}
+
+.font-300 {
+    font-weight: 300 !important;
+}
+
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+}
+
+/* spacing */ 
+.top-50 {
+    margin-top: 50px;
+}
+
+.top-30 {
+    margin-top: 30px;
+}
+
+.top-bottom-20 {
+    margin: 20px 0;
+}
+
+.padding-v-sm {
+    padding: 20px 0;
+}
+
+.padding-h-md {
+    padding: 0 50px;
+}
+
+
+
+/* dividers */ 
+.divider {
+    height: 20px;
+}
+
+.divider-md {
+    height: 50px;
+}
+
+.border-bottom-dark-gray {
+    border-bottom: 1px solid #cccccc;
+}
+
+.border-bottom-light-gray {
+    border-bottom: 1px solid #dedede;
+}
+
+/* color */ 
+.black-color {
+    color: #000000 !important;
+}
+
+.gray {
+    color: #706e6e;
+}
+
+/* borders */ 
+
+.light-gray-border {
+    border: 1px solid #eeeeee;
+}
+
+

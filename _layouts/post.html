@@ -1,0 +1,16 @@
+{% include head.html %}
+{% include header.html %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-10">
+            <div class="title-box top-50">
+                <div class="align-self-center border-bottom-light-gray"></div>
+                <div class="title-box-text title-xs font-300 lato">{{ page.subtitle }}</div>
+                <div class="align-self-center border-bottom-light-gray"></div>
+            </div>
+            <h1 class="text-center text-uppercase post-title">{{ page.title }}</h1>
+            {{ content }}
+        </div>
+    </div>
+</div>
+{% include footer.html %}
