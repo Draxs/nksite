@@ -17,8 +17,8 @@ permalink: /fashion/
 {% for post in site.posts %}
     {% if post.categories  contains "fashion" %}
         <div class="col-4">
-            <a href="{{ post.url }}">
-                <div class="image-box-md" style="background: url('{{ post.image }}') no-repeat; background-size: cover; background-position: center;"></div>
+            <a href="{{ post.url | prepend: SourceUrl }}">
+                <div class="image-box-md" style="background: url('{{ post.image | prepend: SourceUrl }}') no-repeat; background-size: cover; background-position: center;"></div>
                 <div class="text-center padding-v-sm">    
                     <h5>{{ post.preview-title }}</h5>
                     <p class="font-xs font-justify gray">{{ post.excerpt }}</p>
