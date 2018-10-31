@@ -3,6 +3,7 @@ layout: posts-category
 title: Travel
 permalink: /travel/
 ---
+{% include url.html %}
 <div class="row justify-content-center">
     <div class="col-10">
         <div class="title-box top-50">
@@ -17,8 +18,8 @@ permalink: /travel/
 {% for post in site.posts %}
     {% if post.categories  contains "travel" %}
         <div class="col-6 padding-h-md">
-            <a href="{{ post.url }}">
-                <div class="image-box-lg" style="background: url('{{ post.image }}') no-repeat; background-size: cover; background-position: center;"></div>
+            <a href="{{ post.url | prepend: SourceUrl }}">
+                <div class="image-box-lg" style="background: url('{{ post.image | prepend: SourceUrl }}') no-repeat; background-size: cover; background-position: center;"></div>
                 <div class="text-center padding-v-sm">    
                     <h5>{{ post.preview-title }}</h5>
                     <p class="font-xs font-justify gray">{{ post.excerpt }}</p>

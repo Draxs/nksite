@@ -22,24 +22,24 @@
 						<div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
 						  <ul class="navbar-nav">
 							<li class="nav-item">
-							  <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+							  <a class="nav-link" href="{{ '/' | prepend: SourceUrl }}">Home <span class="sr-only">(current)</span></a>
 							</li>
 							<li class="nav-item dropdown">
 									<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown"  aria-haspopup="true" aria-expanded="false">
 									Categories
 									</a>
 									<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-									<a class="dropdown-item" href="/fashion">Fashion</a>
-									<a class="dropdown-item" href="/travel">Travel</a>
-									<a class="dropdown-item" href="/malta">Malta</a>
-									<a class="dropdown-item" href="/press">Press</a>
+									<a class="dropdown-item" href="{{ '/fashion' | prepend: SourceUrl }}">Fashion</a>
+									<a class="dropdown-item" href="{{ '/travel' | prepend: SourceUrl }}">Travel</a>
+									<a class="dropdown-item" href="{{ '/malta' | prepend: SourceUrl }}">Malta</a>
+									<a class="dropdown-item" href="{{ '/press' | prepend: SourceUrl }}">Press</a>
 									</div>
 								</li>
 							<li class="nav-item">
-							  <a class="nav-link" href="/about">About</a>
+							  <a class="nav-link" href="{{ '/about' | prepend: SourceUrl }}">About</a>
 							</li>
 							<li class="nav-item">
-							  <a class="nav-link" href="/work-with-me">Work With Me</a>
+							  <a class="nav-link" href="{{ '/work-with-me' | prepend: SourceUrl }}">Work With Me</a>
 							</li>
 							
 						  </ul>
