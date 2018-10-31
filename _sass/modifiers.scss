@@ -33,8 +33,16 @@ a {
     font-size: 14px;
 }
 
+.font-xss {
+    font-size: 12px;
+}
+
 .font-justify {
     text-align: justify;
+}
+
+.centered-text {
+    text-align: center;
 }
 
 .font-700 {
@@ -50,7 +58,7 @@ a {
 }
 
 .playfair {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Playfair Display', serif !important;
 }
 
 .lato {
@@ -64,6 +72,10 @@ a {
 
 .top-30 {
     margin-top: 30px;
+}
+
+.top-20 {
+    margin-top: 20px;
 }
 
 .top-bottom-20 {
@@ -104,6 +116,10 @@ a {
 
 .gray {
     color: #706e6e;
+}
+
+.light-gray-background {
+    background-color: #eeeeee;
 }
 
 /* borders */ 

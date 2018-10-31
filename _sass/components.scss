@@ -134,3 +134,46 @@
     width: 12px;
     height: 12px;
 }
+
+/* about */ 
+
+.about-category-box {
+    margin-bottom: 100px;
+}
+
+/* insta */ 
+
+.insta-container {
+    background-color: #efefef;
+    margin-top: 20px;
+    padding: 10px;
+    padding-bottom: 80px;
+}
+
+.instagram-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.instagram-title span {
+    display: block;
+    margin-top: 0;
+    font-size: 17px;
+}
+
+.instagram-title a {
+    color: #000000;
+}
+
+/* footer */
+
+.footer-nav {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer-nav a {
+    color: #000000;
+    margin: 5px 15px;
+    font-size: 14px;
+}
