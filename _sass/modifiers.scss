@@ -90,6 +90,10 @@ a {
     padding: 0 50px;
 }
 
+.padding-md {
+    padding: 30px;
+}
+
 
 
 /* dividers */ 
@@ -101,12 +105,20 @@ a {
     height: 50px;
 }
 
+.divider-lg {
+    height: 100px;
+}
+
 .border-bottom-dark-gray {
     border-bottom: 1px solid #cccccc;
 }
 
 .border-bottom-light-gray {
     border-bottom: 1px solid #dedede;
+}
+
+.test {
+    border: 1px solid #b81818;
 }
 
 /* color */ 
