@@ -11,7 +11,7 @@ permalink: /Dresses-fit-for-a-princess-and-a-palace-to-match/
 
 No, I haven’t turned into Meghan Markle. Lucky me, I found my prince a long time ago. However, just recently I found my perfect palace. <a href="http://www.palazzoparisio.com/" target="_blank">Palazzo Parisio</a> in Naxxar is the most beautiful, exquisite, mini Versailles. Set in Naxxar,Malta, it is there for taking a journey back in time.
 
-<img src="/images/malta/palazzo-parisio/palazzo-parisio-featured-image.jpg" alt="palazzo-parisio-featured-image.jpg">
+<img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-featured-image.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-featured-image.jpg">
 
 <div class="row no-gutters">
     <div class="col-sm-6">
@@ -26,7 +26,7 @@ This amazing palazzo is open to the public and you can see how the Scicluna fami
 
 So, let’s pretend: welcome to my palace and let me show you around. Shall we sit under the chandeliers and listen to Mozart or in my gold drawing room and discuss art? The table is set for dinner, so let’s wander into the dining room while discussing the latest fashions.
 
-<img src="/images/malta/palazzo-parisio/palazzo-parisio-6.jpg" alt="palazzo-parisio-6.jpg">
+<img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-6.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-6.jpg">
 
 <div class="row no-gutters">
     <div class="col-sm-6">
@@ -48,7 +48,7 @@ So, let’s pretend: welcome to my palace and let me show you around. Shall we s
 
 Speaking of which, you cannot go to the palace without a proper wardrobe. Grace Kelly combined film star glamour with royalty chic and this is the look to channel at Palazzo Parisio. A cocktail style, black bustier dress is always a good start. My fit and flare dress emphasises the waistline and makes your legs look endless. Because the dress has such a wow factor, keep accessories to a minimum. Tanned skin and perfume was my choice.
 
-<img src="/images/malta/palazzo-parisio/palazzo-parisio-12.jpg" alt="palazzo-parisio-12.jpg">
+<img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-12.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-12.jpg">
 
 <div class="row no-gutters">
     <div class="col-sm-6">
@@ -63,4 +63,4 @@ A ball at the palace is true fairy-tale time so make the dress the star. My stun
 
 And, at the end of a perfect evening, the perfect boudoir. Palazzo Parisio, I love you
 
-<img src="/images/malta/palazzo-parisio/palazzo-parisio-15.jpg" alt="palazzo-parisio-15.jpg">
+<img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-15.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-15.jpg">

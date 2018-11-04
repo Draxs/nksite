@@ -150,7 +150,7 @@
     margin-bottom: 100px;
 }
 
-.image-credit {
+.image-credit, .image-credit-dark {
     position: absolute;
     bottom: 0px;
     margin-left: 20px;
@@ -158,6 +158,10 @@
 
 .image-credit a, .image-credit a:hover {
     color: #cccccc;
+}
+
+.image-credit-dark a, .image-credit-dark a:hover {
+    color: #000000;
 }
 
 /* insta */ 
