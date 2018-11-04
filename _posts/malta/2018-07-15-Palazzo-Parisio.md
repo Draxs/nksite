@@ -30,10 +30,10 @@ So, let’s pretend: welcome to my palace and let me show you around. Shall we s
 
 <div class="row no-gutters">
     <div class="col-sm-6">
-        <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-9.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
+        <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-7.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
     <div class="col-sm-6">
-        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-7.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
+        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-9.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
 
@@ -52,10 +52,10 @@ Speaking of which, you cannot go to the palace without a proper wardrobe. Grace 
 
 <div class="row no-gutters">
     <div class="col-sm-6">
-        <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-13.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
+        <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-14.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
     <div class="col-sm-6">
-        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-14.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
+        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-13.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
 
