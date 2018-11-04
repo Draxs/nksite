@@ -19,19 +19,19 @@ I stayed in the Fragrance Suite. This was picture perfect; from the white wrough
 <img src="{{ '/images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-1a.jpg' | prepend: SourceUrl }}" alt="The-Palace-Hotel-Sliema-1a.jpg">
 
  <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-4.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-2.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-10.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-3.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -41,10 +41,10 @@ Add in The Palace’s legendary comfort and quality in their suites and rooms an
 <img src="{{ '/images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-1.jpg' | prepend: SourceUrl }}" alt="The-Palace-Hotel-Sliema-1.jpg">
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-8.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-9.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -54,19 +54,19 @@ Add in The Palace’s legendary comfort and quality in their suites and rooms an
 A balcony for breakfast, a sumptuous sofa for reclining, a 5* bathroom and all the touchpoints that touch your senses. I really did not want to go home. Floaty material works perfectly in the heat to keep you looking cool and glamorous throughout the day. Metallic or beaded sandals, a great bag and your sunnies are all a girl needs to breakfast at The Palace.
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-15.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-17.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-21.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-22.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -76,10 +76,10 @@ A balcony for breakfast, a sumptuous sofa for reclining, a 5* bathroom and all t
 Much as I love Asian food, I dined at ‘A Tavola’ on Saturday night and what a winner. Situated between The Palace and Palazzo Capua in Alexandra Gardens, the fabulous inside/outside ambiance is the perfect destination for Date Night, Girls’ Night or just for you to have the most delicious pizza and glass of good wine. Really good wine. I love buzzy restaurants with great staff and happy diners and so ‘A Tavola’ delivers on all fronts. Maybe I just found my new home.
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-19.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-23.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -87,10 +87,10 @@ Much as I love Asian food, I dined at ‘A Tavola’ on Saturday night and what 
  So, what to pack in your luggage if you want to spend the weekend living in elegant luxury and class but while dining out on classic pizza or pasta in a truly, out-of-this- world ambiance? Whether a sophisticated pose in coral or a sneaky way of eating pizza without having to loosen your belt, my striking, strapless dress will take you beach to bar to dinner. The flowing silk, that drapes from the bustline and with a discreet thigh slit, is designed to move effortlessly with you. The beautiful soft colour is rich enough to work day to night. Choose your shoes to suit the occasion.
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-6.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-5.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>

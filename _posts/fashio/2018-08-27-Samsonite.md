@@ -15,10 +15,10 @@ I travel a lot for work so my luggage is an important part of my set up. Over th
 However, I have found the ultimate in luggage and I don’t think even the most reckless baggage handler is going to destroy these beautiful bags. My <a href="http://www.samsonite.com/home/home.html" target="_blank">Samsonite</a> hard shell cases are super tough and super light.
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/fashion/samsonite/samsonite-5.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/fashion/samsonite/samsonite-2.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>

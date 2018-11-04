@@ -14,10 +14,10 @@ No, I haven’t turned into Meghan Markle. Lucky me, I found my prince a long ti
 <img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-featured-image.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-featured-image.jpg">
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-8.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-5.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -29,19 +29,19 @@ So, let’s pretend: welcome to my palace and let me show you around. Shall we s
 <img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-6.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-6.jpg">
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-7.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-9.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-11.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-10.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -51,10 +51,10 @@ Speaking of which, you cannot go to the palace without a proper wardrobe. Grace 
 <img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-12.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-12.jpg">
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-14.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-13.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>

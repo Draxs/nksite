@@ -90,10 +90,10 @@ a {
     padding: 0 50px;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (max-width: 768px){
     .padding-h-md {
-        padding: 0;
-    }
+        padding: 0 15px;
+    } 
 }
 
 .padding-md {

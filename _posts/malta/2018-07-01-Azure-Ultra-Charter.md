@@ -15,10 +15,10 @@ A trip on a luxury charter yacht with <a href="https://www.azureultra.com/en/" t
 Perfect for lounging or posing on the foredeck, the billowing style with its cinched waist gives that effortless look of summer style, whilst its strong rich colour will take you from early summer/pre tan right through to when the nights start to draw in. 
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/Azure-Ultra-Charter/Azure-Ultra-Charter-1.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/Azure-Ultra-Charter/Azure-Ultra-Charter-3.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -26,10 +26,10 @@ Perfect for lounging or posing on the foredeck, the billowing style with its cin
 In homage to the teak decks, we were barefoot on board, but this jumpsuit works beautifully with both heels or glamourous Boho sandals. Add a wide brim hat and cat’s eye sunnies and head for the islands.
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/Azure-Ultra-Charter/Azure-Ultra-Charter-4.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/Azure-Ultra-Charter/Azure-Ultra-Charter-2.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>

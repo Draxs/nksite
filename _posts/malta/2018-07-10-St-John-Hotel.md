@@ -15,10 +15,10 @@ This hotel is an oasis from the light and heat and noise of urban life. A true b
 My simple but elegant dress is a mix of yin and yang, with its plain tailoring and soft primrose yellow colour. Perfect for barefoot lounging in style.
 
  <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-2.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-1.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -26,10 +26,10 @@ My simple but elegant dress is a mix of yin and yang, with its plain tailoring a
 <img src="{{ '/images/malta/St-John-Hotel/St-John-Hotel-3.jpg' | prepend: SourceUrl }}" alt="St-John-Hotel-3.jpg">
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-4.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-5.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -43,10 +43,10 @@ Whether travelling for business or pleasure, the stylish woman always chooses th
 Should business be the major reason for your stay, then ensuring your hotel has a great bathroom, good mirrors, the most comfortable bed as well as Wifi, plenty of sockets and desk space will take the heat out of your visit. The Saint John offers this and more. High tech equipment and great interior design sit effortlessly with discreetly attentive and professional staff. The result is perfection.
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-7.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-9.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
@@ -60,10 +60,10 @@ Pair with a strapless bustier and a light jacket for urban chic. Lose the jacket
 Downstairs at The Saint John, there is a great bar and cafe style restaurant, so you can wear your highest heels and keep smiling, however long the day has been.
 
 <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-11.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/malta/St-John-Hotel/St-John-Hotel-10.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>

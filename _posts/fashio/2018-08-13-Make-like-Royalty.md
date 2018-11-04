@@ -10,7 +10,7 @@ permalink: /Make-like-Royalty/
 ---
 
 <div class="row justify-content-center">
-<div class="col-10 col-sm-12">
+<div class="col">
 <p>I believe that an LBD is one of the most important staples in a stylish woman’s wardrobe But sometimes your perfect Little Black Dress just happens to be a perfect Little Plum Dress by <a href="https://www.mishacollection.eu/shop.html?utm_source=instagrambio&utm_medium=instagram&utm_campaign=shopall" target="_blank">Misha Collection</a> 
 <p>All shades of purple have connotations of Royalty and that is no bad thing when your mission is to create a wow factor.</p>
 <p><img src="{{ '/images/fashion/Make-like-Royalty.jpg' | prepend: SourceUrl }}" alt="Make-like-Royalty.jpg"></p>

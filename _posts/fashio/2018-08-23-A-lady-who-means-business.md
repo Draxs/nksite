@@ -10,7 +10,7 @@ permalink: /A-lady-who-means-business/
 ---
 
 <div class="row justify-content-center">
-<div class="col-10">
+<div class="col">
 <p>I always read those ‘Ten things you must have in our wardrobe by 20/30/40’ with interest but a slightly raised eyebrow. Style is individual and personal. It is part of your identity, but the one thing I do agree with, every time,every article or post, is that classic with a twist is a sure-fire winner.</p>
 <p><img src="{{ '/images/fashion/A-lady-who-means-business.jpg' | prepend: SourceUrl }}" alt="A-lady-who-means-business.jpg"></p>
 <p>Statement shirts are very ‘in’ and so this is a great time to find your favourite one. I totally fell in love with this fabulous red silk shirt with its dramatic flowers and oversized lapels. Paired with my signature high waisted trousers, this look is intensely feminine and refined whilst really demanding to be taken seriously. Choose neutral accessories – my nude bag and soft grey coat work perfectly – so that your look is about focusing on the main event. My sunglasses are dark pink, graduating down to a lighter shade so that my entire appearance is co ordinated without appearing matchy matchy.</p>

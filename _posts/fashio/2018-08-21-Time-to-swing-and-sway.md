@@ -10,7 +10,7 @@ permalink: /Time-to-swing-and-sway/
 ---
 
 <div class="row justify-content-center">
-<div class="col-10">
+<div class="col">
 <p>Dancing makes me happy. Dancing keeps me fit and healthy, makes me smile and this outfit makes me think about dancing: an accordion pleated skirt in light chiffon with dramatic colour blocking is the floaty, twirly girly focus of my outfit. You could keep the skirt simple with a black sleeveless top for a more serious take or get ready to go dancing with a polka dot, boat necked top in diaphanous chiffon. This top is just sheer enough to just see my Calvin Klein bra. Underwear this good should not be hidden.</p>
 <p>A delicate pink, longline blazer with structured tailoring provides an unusual counterpoint. This makes my outfit work ready or date ready with just a swing on or off of a jacket.</p>
 <p><img src="{{ '/images/fashion/Time-to-swing-and-sway.jpg' | prepend: SourceUrl }}" alt="Time-to-swing-and-sway.jpg"></p>

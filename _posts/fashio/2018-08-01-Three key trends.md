@@ -10,7 +10,7 @@ permalink: /Three-key-trends/
 ---
 
 <div class="row justify-content-center">
-<div class="col-10 col-sm-12">
+<div class="col">
 <p>With a polka dot, sheer blouse and yellow paper bag trousers. The spot design is bang on trend whilst preserving your modesty and the boat neckline, as favoured by new Royal Meghan Markle, suits all.</p>
 <p>Muted yellow is a perfect colour for those seasonal changes – whether spring to summer or summer to autumn - and paper bag trousers are made for showing off a nipped in waist.</p>
 <p><img src="{{ '/images/fashion/Three-key-trends-1.jpg' | prepend: SourceUrl }}" alt="Three-key-trends-1.jpg"></p>
