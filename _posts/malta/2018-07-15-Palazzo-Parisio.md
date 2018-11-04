@@ -33,16 +33,16 @@ So, let’s pretend: welcome to my palace and let me show you around. Shall we s
         <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-7.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
     <div class="col-md-6 col-sm-12">
-        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-9.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
+        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-11.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
 
 <div class="row no-gutters">
     <div class="col-md-6 col-sm-12">
-        <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-11.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
+        <div class="post-left-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-10.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
     <div class="col-md-6 col-sm-12">
-        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-10.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
+        <div class="post-right-image" style="background: url(../images/malta/palazzo-parisio/palazzo-parisio-9.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
 
