@@ -17,7 +17,7 @@ permalink: /travel/
 <div class="row justify-content-between">
 {% for post in site.posts %}
     {% if post.categories  contains "travel" %}
-        <div class="col-md-6 padding-h-md">
+        <div class="col-md-6 col-sm-12 padding-h-md">
             <a href="{{ post.url | prepend: SourceUrl }}">
                 <div class="image-box-lg" style="background: url('{{ post.image | prepend: SourceUrl }}') no-repeat; background-size: cover; background-position: center;"></div>
                 <div class="text-center padding-v-sm">    
