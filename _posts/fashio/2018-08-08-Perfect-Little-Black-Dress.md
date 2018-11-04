@@ -14,10 +14,10 @@ permalink: /Perfect-Little-Black-Dress/
  <a href="https://www.mishacollection.eu/shop.html?utm_source=instagrambio&utm_medium=instagram&utm_campaign=shopall" target="_blank">Misha Collection</a>, an Australian brand founded by Michelle Aznavorian, a talented designer and entrepreneur, is my go-to site for LBDs. They ship (free of charge) to Europe as well as being represented in many cities worldwide. Think of the most beautiful store in the coolest shopping street and that is where you will find Misha Collection.
 
  <div class="row no-gutters">
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/fashion/Perfect-Little-Black-Dress-1.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
     </div>
-    <div class="col-sm-6">
+    <div class="col-md-6 col-sm-12 ">
         <div class="post-right-image" style="background: url(../images/fashion/Perfect-Little-Black-Dress.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
