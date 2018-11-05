@@ -69,3 +69,4 @@ And, at the end of a perfect evening, the perfect boudoir. Palazzo Parisio, I lo
     <p class="font-xs image-credit"><a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a></p>
 </div>
 </div>
+<div class="divider"></div>
