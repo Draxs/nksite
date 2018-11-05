@@ -94,5 +94,3 @@ Much as I love Asian food, I dined at ‘A Tavola’ on Saturday night and what 
         <div class="post-right-image" style="background: url(../images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-5.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
-
-<img src="/images/malta/The-Palace-Hotel/The-Palace-Hotel-Sliema-11.jpg" alt="The-Palace-Hotel-Sliema-11.jpg">

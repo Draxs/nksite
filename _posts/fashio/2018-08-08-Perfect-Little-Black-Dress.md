@@ -19,6 +19,7 @@ permalink: /Perfect-Little-Black-Dress/
     </div>
     <div class="col-md-6 col-sm-12 ">
         <div class="post-right-image" style="background: url(../images/fashion/Perfect-Little-Black-Dress.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
+        <p class="font-xs bottom-30 image-credit-dark"><a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a></p>
     </div>
 </div>
 
