@@ -5,7 +5,7 @@ preview-title: "Refined simplicity all the way with pastels"
 subtitle: "Fashion"
 categories: fashion
 excerpt: "Have you ever noticed how well Mediterranean women do pastels in autumn and winter? Maybe it’s the light here, but the weight and weave of the fabric also make a difference" 
-image: /images/fashion/pastels/pastels-3.jpg
+image: /images/fashion/pastels/pastels-3a.jpg
 permalink: /Refined-simplicity-all-the-way-with-pastels/
 ---
 Have you ever noticed how well Mediterranean women do pastels in autumn and winter? Maybe it’s the light here, but the weight and weave of the fabric also make a difference. Delicate silks and cottons are perfect for summer, however, as the seasons change, it’s nice to have  more of a layer between you and the wind.
@@ -24,7 +24,7 @@ Last, but certainly not least – accessories. My beautiful <a href="https://www
 
 <div class="row no-gutters">
     <div class="col-md-6 col-sm-12">
-        <div class="post-left-image" style="background: url(../images/fashion/pastels/pastels-3.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 630px !important"></div>
+        <div class="post-left-image" style="background: url(../images/fashion/pastels/pastels-3a.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 630px !important"></div>
     </div>
     <div class="col-md-6 col-sm-12">
         <div class="post-right-image" style="background: url(../images/fashion/pastels/pastels-2.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 630px !important"></div>
