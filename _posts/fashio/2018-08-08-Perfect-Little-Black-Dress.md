@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Perfect ittle Black Dress"
-preview-title: "Perfect ittle Black Dress"
+title:  "Perfect Little Black Dress"
+preview-title: "Perfect Little Black Dress"
 subtitle: "Fashion"
 categories: fashion
 excerpt: "Refined, romantic, always feminine – this is my signature style for eveningwear and a great mind set to have when choosing a Little Black Dress. Able to be dressed up or down depending on the occasion"
