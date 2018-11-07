@@ -4,7 +4,7 @@ title:  "Refined simplicity all the way with pastels"
 preview-title: "Refined simplicity all the way with pastels"
 subtitle: "Fashion"
 categories: fashion
-excerpt: "Have you ever noticed how well Mediterranean women do pastels in autumn and winter? Maybe it’s the light here, but the weight and weave of the fabric also make a difference" 
+excerpt: "Have you ever noticed how well Mediterranean women do pastels in autumn and winter? Maybe it’s the light here, but the weight and weave of the fabric" 
 image: /images/fashion/pastels/pastels-3a.jpg
 permalink: /Refined-simplicity-all-the-way-with-pastels/
 ---

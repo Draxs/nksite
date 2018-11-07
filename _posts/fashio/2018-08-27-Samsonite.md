@@ -4,7 +4,7 @@ title:  "Excess baggage? Never with Samsonite"
 preview-title: "Excess baggage? Never with Samsonite"
 subtitle: "Fashion"
 categories: fashion
-excerpt: "I travel a lot for work so my luggage is an important part of my set up. Over the years, I have lost, destroyed and generally battered to death many suitcases and bags" 
+excerpt: "I travel a lot for work so my luggage is an important part of my set up. Over the years, I have lost, destroyed and generally battered to death many suitcases and bags. In fairness, baggage handlers have helped" 
 image: /images/fashion/samsonite/samsonite-featured-image.jpg
 permalink: /Excess-baggage-Never-with-Samsonite/
 ---
