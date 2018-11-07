@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Azure Ultra Charter"
-preview-title: "Azure Ultra Charter"
+title:  "Azure Ultra"
+preview-title: "Azure Ultra"
 subtitle: "Malta"
 categories: malta
-excerpt: "A trip on a luxury charter yacht with Azure Ultra Charter definitely called for something special to come out of the wardrobe. Glamorous, sophisticated but casual and practical – thoughts of the sun, the wind" 
+excerpt: "A trip on a luxury charter yacht with Azure Ultra definitely called for something special to come out of the wardrobe. Glamorous, sophisticated but casual and practical – thoughts of the sun, the wind" 
 image: /images/malta/Azure-Ultra-Charter/Azure-Ultra-Charter.jpg
-permalink: /Azure-Ultra-Charter/
+permalink: /Azure-Ultra/
 ---
-A trip on a luxury charter yacht with <a href="https://www.azureultra.com/en/" target="_blank">Azure Ultra Charter</a> definitely called for something special to come out of the wardrobe. Glamorous, sophisticated but casual and practical – thoughts of the sun, the wind, how to climb elegantly out of the tender to board the yacht were at the forefront of my mind – are the key elements to successful on-board dressing. So, let’s just all give thanks for the jumpsuit: ticking every box of practical but elegant and sophisticated, this burnt umber silk crepe de chine jumpsuit is possibly the best item of clothing I have ever worn.
+A trip on a luxury charter yacht with <a href="https://www.azureultra.com/en/" target="_blank">Azure Ultra</a> definitely called for something special to come out of the wardrobe. Glamorous, sophisticated but casual and practical – thoughts of the sun, the wind, how to climb elegantly out of the tender to board the yacht were at the forefront of my mind – are the key elements to successful on-board dressing. So, let’s just all give thanks for the jumpsuit: ticking every box of practical but elegant and sophisticated, this burnt umber silk crepe de chine jumpsuit is possibly the best item of clothing I have ever worn.
 
 <img src="{{ '/images/malta/Azure-Ultra-Charter/Azure-Ultra-Charter.jpg' | prepend: SourceUrl }}" alt="Azure-Ultra-Charter.jpg">
 
