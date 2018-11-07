@@ -4,7 +4,7 @@ title:  "Azure Ultra Charter"
 preview-title: "Azure Ultra Charter"
 subtitle: "Malta"
 categories: malta
-excerpt: "A trip on a luxury charter yacht with Azure Charter definitely called for something special to come out of the wardrobe. Glamorous, sophisticated but casual and practical – thoughts of the sun, the wind" 
+excerpt: "A trip on a luxury charter yacht with Azure Ultra Charter definitely called for something special to come out of the wardrobe. Glamorous, sophisticated but casual and practical – thoughts of the sun, the wind" 
 image: /images/malta/Azure-Ultra-Charter/Azure-Ultra-Charter.jpg
 permalink: /Azure-Ultra-Charter/
 ---
