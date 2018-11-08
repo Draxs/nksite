@@ -80,6 +80,19 @@
     background-position: center;
 }
 
+@media screen and (max-width: 768px){
+    .post-left-image, .post-right-image {
+        column-count: 3;
+        column-gap: 10px;
+        margin-bottom: 1rem;
+        height: 600px;
+        max-width: 100%;
+        background-position: center;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
 
 /* images */
 
