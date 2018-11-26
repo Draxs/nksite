@@ -9,7 +9,7 @@
 	<meta property="og:title" content="Nena Kay" />
 	<meta property="og:type" content="website" />
 	<meta property="og:description" content="Nena Kay is about fashion, lifestyle and travel: taking the audience on a visual journey with me" />
-	<meta property="og:url" content="{{ site.url }}" />
+	<meta property="og:url" content="{{ site.url }}{{page.url }}" />
 	{% if page.image %}
 	<meta property="og:image" content="{{ page.image | prepend: site.url }}" />
 	{% else %}
