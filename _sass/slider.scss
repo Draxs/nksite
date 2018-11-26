@@ -78,7 +78,7 @@
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     #slider {
         height: auto;
     }
@@ -101,6 +101,25 @@
         border-radius: 15px;
     }
     #circles{
+        margin-top: -5vh;
+        right: 50px;
+        position: absolute;
+    }
+}
+
+@media (min-width: 770px) {
+    #slider {
+        height: auto;
+    }
+    .img-slide {
+        height: auto;
+    }
+    .circle {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+    }
+    #circles {
         margin-top: -5vh;
         right: 50px;
         position: absolute;

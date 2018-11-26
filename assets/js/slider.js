@@ -1,6 +1,6 @@
 /* full screen image slider */
 
-var arr=['images/main-1.jpg','images/main-2.jpg']; //an array of image sources
+var arr=['images/main-1a.jpg','images/main-2.jpg','images/main-5.jpg']; //an array of image sources
 var pos=0; //initializes image position in the array
 $(document).ready(function () {
     var interval=4000; //interval for slide
