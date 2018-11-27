@@ -13,10 +13,6 @@ permalink: /Three-key-trends/
 <p><img src="{{ '/images/fashion/Three-key-trends-1.jpg' | prepend: SourceUrl }}" alt="Three-key-trends-1.jpg"></p>
 <p>The ultimate Insta moment is given with the perfectly casual shoulder drape of the grey coat.</p>
 <p>Add round sunnies - as seen at Prada and Valentino -  and an oversized clutch and you are good to go – anywhere!</p>
-<div class="row justify-content-center">
-<div class="col">
-    <img src="{{ '/images/fashion/Three-key-trends.jpg' | prepend: SourceUrl }}" alt="Three-key-trends.jpg">
-    <p class="font-sm image-credit-dark"><a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a></p>
-</div>
-</div>
-<div class="divider-sm"></div>
+<img src="{{ '/images/fashion/Three-key-trends.jpg' | prepend: SourceUrl }}" alt="Three-key-trends.jpg">
+
+<a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a>

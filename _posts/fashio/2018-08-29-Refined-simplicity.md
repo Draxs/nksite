@@ -35,10 +35,6 @@ Finish off this serious styled look with sleek hair and a full on plum pout; the
 
 Hello autumn but it’s not quite farewell summer yet. 
 
-<div class="row justify-content-center">
-<div class="col">
-    <img src="{{ '/images/fashion/pastels/pastels-4.jpg' | prepend: SourceUrl }}" alt="pastels-4.jpg">
-    <p class="font-xs image-credit-dark"><a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a></p>
-</div>
-</div>
-<div class="divider-sm"></div>
+<img src="{{ '/images/fashion/pastels/pastels-4.jpg' | prepend: SourceUrl }}" alt="pastels-4.jpg">
+
+<a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a>

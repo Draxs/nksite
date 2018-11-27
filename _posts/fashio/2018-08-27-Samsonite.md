@@ -33,9 +33,6 @@ Samsonite cases come as a range so you can buy a matching set or just the size y
 
 Finally, the shoulder bag: my Karissa Lth is super soft nappa leather, comes in three shades and has a two year guarantee. This is easily the best shoulder bag around, especially when travelling, as it has plenty of room, looks good with everything you wear and is the perfect size without being bulky. What more can you ask for?
 
-<div class="row justify-content-center">
-<div class="col">
-    <img src="{{ '/images/fashion/samsonite/samsonite-4.jpg' | prepend: SourceUrl }}" alt="samsonite-4.jpg">
-    <p class="font-xs image-credit-dark"><a href="https://instagram.com/stnkvcmls?utm_source=ig_profile_share&igshid=jw57c6eevhdj" target="_blank">Photo by stnkvcmls</a></p>
-</div>
-</div>
+<img src="{{ '/images/fashion/samsonite/samsonite-4.jpg' | prepend: SourceUrl }}" alt="samsonite-4.jpg">
+
+<a href="https://instagram.com/stnkvcmls?utm_source=ig_profile_share&igshid=jw57c6eevhdj" target="_blank">Photo by stnkvcmls</a>

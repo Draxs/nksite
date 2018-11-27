@@ -70,8 +70,16 @@ a {
 }
 
 /* spacing */ 
+.top-min-100 {
+    margin-top: -100px;
+}
+
 .top-50 {
     margin-top: 50px;
+}
+
+.top-60 {
+    margin-top: 60px;
 }
 
 .top-30 {
@@ -86,12 +94,20 @@ a {
     margin-bottom: 30px;
 }
 
+.bottom-80 {
+    margin-bottom: 80px;
+}
+
 .top-bottom-20 {
     margin: 20px 0;
 }
 
 .padding-v-sm {
     padding: 20px 0;
+}
+
+.padding-v-lg {
+    padding: 50px 0;
 }
 
 .padding-h-md {

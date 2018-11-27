@@ -11,11 +11,8 @@ permalink: /The-practical-princess/
 <p>I love, love, love this look: classy, classic, elegant and completely different to everyone else at the party</p>
 <p>The unusual design of the split trousers shows off leg length and gives instant glamour, as well as complete security from sudden breezes and paparazzi shots!
 Too pretty to be khaki, the sage green colour is beautifully distinctive and works fabulously with so many other shades: these trousers can create a look that will change completely with a black cashmere polo and suede ankle boots, a rusty colour, ruffled silk shirt and velvet pumps or a multi-colour bralette and bejewelled flip flops.</p>
-<div class="row justify-content-center">
-<div class="col">
-    <img src="{{ '/images/fashion/The-practical-princess.jpg' | prepend: SourceUrl }}" alt="The-practical-princess.jpg">
-    <p class="font-sm image-credit-dark"><a href="https://www.instagram.com/ekaterina_kuntner/" target="_blank">Photo by Ekaterina Kuntner</a></p>
-</div>
-</div>
+<img src="{{ '/images/fashion/The-practical-princess.jpg' | prepend: SourceUrl }}" alt="The-practical-princess.jpg">
+<a href="https://www.instagram.com/ekaterina_kuntner/" target="_blank">Photo by Ekaterina Kuntner</a>
+
 <p>I opted for a ‘classic with a twist white shirt’. This beautifully plain, fitted top, with its detailing in the fit and flare 'bell effect' sleeves and deep V neck, sits on the midriff to emphasise a narrow waist.</p>
 <p>I wore gold, ankle strap, high heeled sandals to carry though my ‘effortless glamour’ look, keeping accessories just to diamond stud earrings. The trousers are the star of this show. Keep them centre stage.</p>

@@ -10,12 +10,7 @@ permalink: /Queen-of-Cool/
 ---
  The temperature’s rising and summer is definitely here, but you can still look cool and chic in a white trouser suit and black top combo. Whether it’s for work or pleasure, fresh white tailoring will take you day to night in effortless style.
 
-<div class="row justify-content-center">
-<div class="col">
-    <img src="{{ '/images/fashion/Queen-of-Cool.jpg' | prepend: SourceUrl }}" alt="Queen-of-Cool">
-    <p class="font-sm image-credit"><a href="https://www.instagram.com/ekaterina_kuntner/" target="_blank">Photo by Ekaterina Kuntner</a></p>
-</div>
-</div>
+<img src="{{ '/images/fashion/Queen-of-Cool.jpg' | prepend: SourceUrl }}" alt="Queen-of-Cool">   
 
  Black and white is one of my favourite colour sets: smart, sexy and sophisticated, it is understated class as its best.
 
@@ -31,3 +26,4 @@ permalink: /Queen-of-Cool/
         <div class="post-right-image" style="background: url(../images/fashion/Queen-of-Cool-2.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
+<a href="https://www.instagram.com/ekaterina_kuntner/" target="_blank">Photo by Ekaterina Kuntner</a>
