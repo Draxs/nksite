@@ -11,7 +11,7 @@ permalink: /Vallettas-most-stunning-secret–domus-zamittello/
 
 When you work with beauty and fashion, one thing you quickly get a feel for is the authentic. <a href="https://domuszamittello.com/" target="_blank">Domus Zamittello</a> is easily one of Valletta’s most authentic luxury destinations.
 
-<img src="{{ '/images/malta/domus-zamittello/domus-zamittello-1.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-1.jpg">
+<img src="{{ '/images/malta/domus-zamittello/domus-zamittello-6.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-6.jpg">
 
 More than a boutique hotel, the exquisitely restored 16th palazzo is a breath-taking trip into a different world. From its location by the Parliament Buildings and former opera house to the lovingly restored frescoes in the Sala Nobile  where we had breakfast, everything is special: the attention to detail and craftsmanship are a visual and physical delight and the discreetly attentive staff are a pleasure to meet.
 
@@ -34,8 +34,6 @@ The central courtyard has a retractable roof, so you can enjoy the Mediterranean
         <div class="post-right-image" style="background: url(../images/malta/domus-zamittello/domus-zamittello-5.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
-
-<img src="{{ '/images/malta/domus-zamittello/domus-zamittello-6.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-6.jpg">
 
 21 individually designed rooms and suites are the next stage on your heavenly journey. King sized beds, wooden floors (also with underfloor heating), gold painted panelling and every comfort and necessity you can imagine.
 
