@@ -63,7 +63,7 @@ When you need to hit MAX on the elegance scale though, this embroidered <a href=
     </div>
 </div>
 
-Don’t forget to look the part. This is a perfect opportunity for some real, old-world glamour. Leave your Stan Smiths behind and indulge in pure Hollywood. My oyster silk harem pants and oatmeal cashmere are perfect lounging. Comfy never looked so elegant.
+My oyster silk harem pants and oatmeal cashmere are perfect lounging. Comfy never looked so elegant.
 
 <img src="{{ '/images/malta/domus-zamittello/domus-zamittello-12.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-12.jpg">
 
@@ -75,3 +75,5 @@ Don’t forget to look the part. This is a perfect opportunity for some real, ol
         <div class="post-right-image" style="background: url(../images/malta/domus-zamittello/domus-zamittello-14.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
+
+Don’t forget to look the part. This is a perfect opportunity for some real, old-world glamour. Leave your Stan Smiths behind and indulge in pure Hollywood.
