@@ -15,6 +15,8 @@ When you work with beauty and fashion, one thing you quickly get a feel for is t
 
 More than a boutique hotel, the exquisitely restored 16th palazzo is a breath-taking trip into a different world. From its location by the Parliament Buildings and former opera house to the lovingly restored frescoes in the Sala Nobile  where we had breakfast, everything is special: the attention to detail and craftsmanship are a visual and physical delight and the discreetly attentive staff are a pleasure to meet.
 
+<img src="{{ '/images/malta/domus-zamittello/domus-zamittello-21.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-21.jpg">
+
 <div class="row no-gutters">
     <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/domus-zamittello/domus-zamittello-2.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
@@ -40,6 +42,15 @@ The central courtyard has a retractable roof, so you can enjoy the Mediterranean
 <img src="{{ '/images/malta/domus-zamittello/domus-zamittello-7.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-7.jpg">
 
 The suites are duplexes, so you get your own kitchen and sitting room if you really want to experience the magic of living in a palace. Beautiful touches such as the telephones and clocks, mirrors and chaises longues all add to the absolute luxury and style. With traditional Maltese balconies and double glazing to the windows, this hotel delivers on every level.
+
+<div class="row no-gutters">
+    <div class="col-md-6 col-sm-12">
+        <div class="post-left-image" style="background: url(../images/malta/domus-zamittello/domus-zamittello-19.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
+    </div>
+    <div class="col-md-6 col-sm-12">
+        <div class="post-right-image" style="background: url(../images/malta/domus-zamittello/domus-zamittello-20.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
+    </div>
+</div>
 
 <img src="{{ '/images/malta/domus-zamittello/domus-zamittello-17.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-17.jpg">
 
