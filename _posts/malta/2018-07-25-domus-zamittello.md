@@ -41,6 +41,8 @@ The central courtyard has a retractable roof, so you can enjoy the Mediterranean
 
 The suites are duplexes, so you get your own kitchen and sitting room if you really want to experience the magic of living in a palace. Beautiful touches such as the telephones and clocks, mirrors and chaises longues all add to the absolute luxury and style. With traditional Maltese balconies and double glazing to the windows, this hotel delivers on every level.
 
+<img src="{{ '/images/malta/domus-zamittello/domus-zamittello-17.jpg' | prepend: SourceUrl }}" alt="domus-zamittello-17.jpg">
+
 <div class="row no-gutters">
     <div class="col-md-6 col-sm-12">
         <div class="post-left-image" style="background: url(../images/malta/domus-zamittello/domus-zamittello-10.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 600px !important"></div>
