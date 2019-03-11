@@ -26,7 +26,7 @@ My amazing bomber style jacket by <a href="https://www.quizclothing.co.uk/" targ
 An on point tweed wrap skirt and perfect cream cable knit keep this look elegantly casual for the sunny autumn days, but a black crewneck and skinnies would look super cool with this jacket too. I plumped for a sleek but natural make up look, as the dramatic colour of the jacket is the focal point. You could work a high shine lip gloss for evenings, but I chose a very natural, matte lip colour in the pinkish brown spectrum and elegant sweeping brows to keep my styling sleek. Never forget the perfect sunglasses to give you effortlessly sexy glamour. 
 
 <img src="{{ '/images/fashion/rusty-jacket/rusty-jacket-3.jpg' | prepend: SourceUrl }}" alt="rusty-jacket-3.jpg">
-<a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
 
 I love this jacket: warm without being heavy, great with jeans or over dresses for a more work ready look and in an amazing shade that suits every colouring and skin tone. Expect a lot of compliments.
 

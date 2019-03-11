@@ -12,7 +12,7 @@ permalink: /You-can-never-have-too-much-of-a-good-thing/
 <p>Sky blue silk, with kimono style sleeves for utter decadence, this wrap shirt is a total statement. The Japanese feel is carried through the beautiful flower detailing and elegant V neck. I paired this top with a vintage, pearlescent white pencil skirt and tied the shirt at the back to keep the lines pure and streamlined. However, this top works with everything: skinny jeans, palazzo pants, a fitted evening skirt or my favourite high waisted trousers - all will and do look amazing.</p>
 
 <img src="{{ '/images/fashion/You-can-never-have-too-much-of-a-good-thing.jpg' | prepend: SourceUrl }}" alt="You-can-never-have-too-much-of-a-good-thing.jpg">
-<a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
 
 <p>I kept my hair hanging straight and glossy to reinforce the lean silhouette that makes you look elegantly elongated and effortlessly elegant. Cats’ eye sunnies are the perfect finishing touch; keep your heels at killer height as this is a killer look.</p>
 <p>Too much of a good thing? Never.</p>

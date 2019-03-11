@@ -15,4 +15,4 @@ permalink: /Three-key-trends/
 <p>Add round sunnies - as seen at Prada and Valentino -  and an oversized clutch and you are good to go – anywhere!</p>
 <img src="{{ '/images/fashion/Three-key-trends.jpg' | prepend: SourceUrl }}" alt="Three-key-trends.jpg">
 
-<a href="https://www.instagram.com/suzypap_/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
