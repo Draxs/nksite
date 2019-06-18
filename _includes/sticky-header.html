@@ -1,0 +1,42 @@
+<div id="page-top"></div>
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container-fluid">
+            <div class="mobile-nav">
+                {% include push-menu.html %}
+                <div class="row align-items-center">
+                    <div class="col-4">
+                        <button type="button" class="menu-btn"><img src="{{ '/images/menu-button.svg' | prepend: SourceUrl }}" width="30" alt=""></button>
+                    </div>
+                    <div class="col-4 text-center">
+                        <div class="mobile-header-social">
+                            <a href="https://instagram.com/nena_kay_?utm_source=ig_profile_share&igshid=1oa6fdxfjlhv5" target="_blank"><img src="{{ '/images/instagram-logo.svg' | prepend: SourceUrl }}" alt="Nena Kay on Instagram"></a>
+                            <a href="https://www.facebook.com/profile.php?id=1490123376" target="_blank"><img src="{{ '/images/facebook-letter-logo.svg' | prepend: SourceUrl }}" alt="Nena Kay on Facebook"></a>
+                            <a href="https://pin.it/aur5m2qjwjkttb" target="_blank"><img src="{{ '/images/pinterest.svg' | prepend: SourceUrl }}" alt="Nena Kay on Pinterest"></a>
+                        </div>
+                    </div>
+                    <div class="col-4 text-right">
+                        <a class="logo-link-m" href="{{ '/' | prepend: SourceUrl }}" title="Nena Kay Home"><img src="{{ '/images/nena-kay-logo.png' | prepend: SourceUrl }}" width="80"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="desktop-nav">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="logo">
+                            <a class="logo-link" href="{{ '/' | prepend: SourceUrl }}" title="Nena Kay Home"><img src="{{ '/images/nena-kay-logo.png' | prepend: SourceUrl }}"></a>
+                        </div>   
+                    </div>
+                    <div class="col-sm-7">
+                        {% include navigation.html %}
+                    </div>
+                    <div class="col-sm-2">
+                        <div class="header-social">
+                            <a href="https://instagram.com/nena_kay_?utm_source=ig_profile_share&igshid=1oa6fdxfjlhv5" target="_blank"><img src="{{ '/images/instagram-logo.svg' | prepend: SourceUrl }}" alt="Nena Kay on Instagram"></a>
+                            <a href="https://www.facebook.com/profile.php?id=1490123376" target="_blank"><img src="{{ '/images/facebook-letter-logo.svg' | prepend: SourceUrl }}" alt="Nena Kay on Facebook"></a>
+                            <a href="https://pin.it/aur5m2qjwjkttb" target="_blank"><img src="{{ '/images/pinterest.svg' | prepend: SourceUrl }}" alt="Nena Kay on Pinterest"></a>>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>

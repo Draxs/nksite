@@ -13,6 +13,19 @@
     }
 }
 
+.hero-home {
+    display: flex;
+    position: relative;
+    min-height: 110vh;
+    padding: 20px;
+    margin-top: 0;
+    justify-content: center;
+    align-items: center;
+    background: url(../images/main-1.jpg);
+    background-size: cover;
+    background-position: top center;
+}
+
 .title-box-text a img {
     display: inline-flex;
 }
