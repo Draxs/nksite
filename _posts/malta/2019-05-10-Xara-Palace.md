@@ -24,7 +24,7 @@ The hotel has recently undergone a refurbishment and the mix of heritage and 21s
     </div>
 </div>
 
-Situated in an elegant and shady square just inside the walled city, <a href="https://xarapalace.com.mt/" target="_blank">The Xara Palace</a> reminds you of the beautiful Europeanhotels frequented by film stars and royalty in 1960s. You can imagine Grace Kelly or Jane Birkin (both of whom were the inspiration for the famed Hermés bags) sipping a very dry Martini there.
+Situated in an elegant and shady square just inside the walled city, <a href="https://xarapalace.com.mt/" target="_blank">The Xara Palace</a> reminds you of the beautiful European hotels frequented by film stars and royalty in 1960s. You can imagine Grace Kelly or Jane Birkin (both of whom were the inspiration for the famed Hermés bags) sipping a very dry Martini there.
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-49.jpg' | prepend: SourceUrl }}" alt="xara-palace-49.jpg">
 
@@ -80,7 +80,7 @@ The hotel has a select range of bedrooms and suites to choose from, including th
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-30.jpg' | prepend: SourceUrl }}" alt="xara-palace-30.jpg">
 
-The hotel is also famous for its restaurants. As part of Relais & Chateaux since 2001, <a href="https://demondion.com/" target="_blank">The de Mondion Restaurant</a> is easily world- class. Located at roof level within the bastion wallsand with 180 panoramic views of unspoiled countryside, it really is a different world.
+The hotel is also famous for its restaurants. As part of Relais & Chateaux since 2001, <a href="https://demondion.com/" target="_blank">The de Mondion Restaurant</a> is easily world- class. Located at roof level within the bastion walls and with 180 panoramic views of unspoiled countryside, it really is a different world.
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-26.jpg' | prepend: SourceUrl }}" alt="xara-palace-26.jpg">
 
