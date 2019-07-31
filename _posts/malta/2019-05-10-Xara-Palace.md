@@ -11,7 +11,7 @@ permalink: /Fit-for-a-Queen–The-Xara-Palace/
 
 Malta has a number of fabulous hotels: from 5* hotels from the branded chains to specialist boutique hotels in converted palazzi there is something for everyone and every budget. However, there is one hotel that was the first ‘Boutique’ style offer on the island and, located as it is in the Silent City of Mdina, holds a place in the heart of everyone who visits or stays there. That hotel is <a href="https://xarapalace.com.mt/" target="_blank">The Xara Palace</a>.
 
-The hotel has recently undergone a refurbishment and the mix of heritage and 21st century luxury is just beautiful. As you enter through the massive doors your first impression of is of cool graciousness. A spacious reception leads into the stunning Salon Nobile and glass roofed courtyard and a spectacular marble staircase leading up to the bedrooms and roof.
+The hotel has recently undergone a refurbishment and the mix of heritage and 21st century luxury is just beautiful. As you enter through the massive doors your first impression of is of cool graciousness. A spacious reception leads into the stunning atrium and glass roofed courtyard and a spectacular marble staircase leading up to the bedrooms and roof.
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-27.jpg' | prepend: SourceUrl }}" alt="xara-palace-27.jpg">
 
@@ -158,7 +158,7 @@ Perfect for sitting and watching the world go by as you enjoy delicious pizza, p
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-21.jpg' | prepend: SourceUrl }}" alt="xara-palace-21.jpg">
 
-Last summer, the hotel opened the <a href="https://xarapalace.com.mt/dining/the-medina-restaurant/" target="_blank">Medina Restaurant</a>.
+The <a href="https://xarapalace.com.mt/dining/the-medina-restaurant/" target="_blank">Medina Restaurant</a> is located in a separate courtyard and building and offers the lovely concept of sharing platters and fresh, locally sourced ingredients for an innovative menu to showcase the chef’s skills and imagination. Deconstructed cannoli has got to be tried!
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-25.jpg' | prepend: SourceUrl }}" alt="xara-palace-25.jpg">
 
@@ -170,8 +170,6 @@ Last summer, the hotel opened the <a href="https://xarapalace.com.mt/dining/the-
         <div class="post-right-image" style="background: url(../images/malta/xara-palace/xara-palace-53.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
-
-This is located in a separate courtyard and building and offers the lovely concept of sharing platters and fresh, locally sourced ingredients for an innovative menu to showcase the chef’s skills and imagination. Deconstructed cannoli has got to be tried!
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-43.jpg' | prepend: SourceUrl }}" alt="xara-palace-43.jpg">
 
