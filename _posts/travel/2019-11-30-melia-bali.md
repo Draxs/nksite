@@ -102,7 +102,7 @@ The hotel offers all-inclusive packages so you need never worry about bills at t
 
 <img src="{{ '/images/travel/melia-bali/melia-bali-30-w1200.jpg' | prepend: SourceUrl }}" alt="melia-bali-30-w1200.jpg">
 
-I love my food so this is always an important part of any visit. Freshly caught fish, barbecued meats, salads and gorgeous cakes were all on the menu, along with Balinese specialities and wonderful scocktails.
+I love my food so this is always an important part of any visit. Freshly caught fish, barbecued meats, salads and gorgeous cakes were all on the menu, along with Balinese specialities and wonderful cocktails.
 
 <img src="{{ '/images/travel/melia-bali/melia-bali-25-w1200.jpg' | prepend: SourceUrl }}" alt="melia-bali-25-w1200.jpg">
 
