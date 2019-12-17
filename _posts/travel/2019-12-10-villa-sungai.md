@@ -8,7 +8,7 @@ excerpt: "A trip to Bali is a magical experience whichever way you visitbut, for
 image: /images/travel/villa-sungai/villa-sungai-6-w1200.jpg
 permalink: /Jungle-vibes-at-Villa-Sungai/
 ---
-A trip to Bali is a magical experience whichever way you visitbut, for that truly exceptional, once in a lifetime experience, you need to visit <a href="https://bali-villasungai.com/" target="_blank">Villa Sungai</a>.
+A trip to Bali is a magical experience whichever way you visit but, for that truly exceptional, once in a lifetime experience, you need to visit <a href="https://bali-villasungai.com/" target="_blank">Villa Sungai</a>.
 
 <img src="{{ '/images/travel/villa-sungai/villa-sungai-w1200.jpg' | prepend: SourceUrl }}" alt="villa-sungai-w1200.jpg">
 
