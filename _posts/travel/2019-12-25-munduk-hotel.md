@@ -127,7 +127,7 @@ And so to food. It would not be my kind of place - however beautiful - without g
 
 <img src="{{ '/images/travel/munduk-hotel/munduk-hotel-20-w1200.jpg' | prepend: SourceUrl }}" alt="munduk-hotel-20-w1200.jpg">
 
-If you want an unusual but truly authentic Balinese experience, you need to visit <a href="https://www.mundukmodingplantation.com/" target="_blank">Munduk Moding</a>. You really feel that you are part of the environment, getting up close to proper nature and wildlife but still with a luxurious bed and bath at the end of the day. It was an amazing trip and one Iwill never forget.
+If you want an unusual but truly authentic Balinese experience, you need to visit <a href="https://www.mundukmodingplantation.com/" target="_blank">Munduk Moding</a>. You really feel that you are part of the environment, getting up close to proper nature and wildlife but still with a luxurious bed and bath at the end of the day. It was an amazing trip and one I will never forget.
 
 <img src="{{ '/images/travel/munduk-hotel/munduk-hotel-24-w1200.jpg' | prepend: SourceUrl }}" alt="munduk-hotel-24-w1200.jpg">
 
