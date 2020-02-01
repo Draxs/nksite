@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Meliá Magic – an ‘out of this world’ experience in Bali"
+title: "Meliá Magic – an 'out of this world' experience in Bali"
 preview-title: "Meliá Magic"
 subtitle: "Bali"
 categories: travel
 excerpt: "Just saying the name ‘Bali’ conjures up beautiful beaches, coral reefs, lush forests and iconic temples. Having spent time at the exceptional Hotel Meliá in Nusa Dua, I can tell you Bali is everything" 
 image: /images/travel/melia-bali/melia-bali-29-w1200.jpg
-permalink: /Meliá-Magic–an-‘out-of-this-world’-experience-in-Bali/
+permalink: /Meliá-Magic–an-out-of-this-world-experience-in-Bali/
 ---
 Just saying the name ‘Bali’ conjures up beautiful beaches, coral reefs, lush forests and iconic temples. Having spent time at the exceptional <a href="https://www.melia.com/en/hotels/indonesia/bali/melia-bali/index.htm?utm_medium=593311&utm_source=758477&utm_campaign=0_GLOBAL_C_BLACKFRIDAY_2019_5701_SEA_25112019_ALEMEA&utm_term=social&utm_content=IG&ectrans=1" target="_blank">Hotel Meliá</a> in Nusa Dua, I can tell you Bali is everything you imagine and more: this hotel needs to be first on your list of places to stay if stylish luxury and impeccable service are your things.
 
