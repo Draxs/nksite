@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Melia Magic – an 'out of this world' experience in Bali"
+title: "Melia Magic – an out of this world experience in Bali"
 preview-title: "Meliá Magic"
 subtitle: "Bali"
 categories: travel
