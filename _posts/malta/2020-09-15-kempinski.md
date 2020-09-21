@@ -13,7 +13,7 @@ As we adapt to the challenges of living with Covid-19, I hope you are all safe a
 
 <img src="{{ '/images/malta/kempinski/kempinski.jpg' | prepend: SourceUrl }}" alt="kempinski.jpg">
 
-Safety and sunshine with style and luxury – those are my new requirements, so a visit to <a href="https://www.kempinski.com/en/gozo/hotel-san-lawrenz" target="_blank">The Kempinski Hotel in San Lawrenz</a> on the beautiful little island of Gozo was the perfect choice. A short journey from Malta by ferry, Gozo is a tinybut fabulous island with a gastronomic reputation and a significant place in history. 
+Safety and sunshine with style and luxury – those are my new requirements, so a visit to <a href="https://www.kempinski.com/en/gozo/hotel-san-lawrenz" target="_blank">The Kempinski Hotel in San Lawrenz</a> on the beautiful little island of Gozo was the perfect choice. A short journey from Malta by ferry, Gozo is a tiny but fabulous island with a gastronomic reputation and a significant place in history. 
 
 <div class="row no-gutters">
     <div class="col-md-6 col-sm-12">
@@ -32,7 +32,7 @@ Part of the international Kempinski brand, <a href="https://www.kempinski.com/en
 
 <img src="{{ '/images/malta/kempinski/kempinski-10.jpg' | prepend: SourceUrl }}" alt="kempinski-10.jpg">
 
-Built from local limestone and furnished in elegant,understated, Maltese style, the hotel is cool and airy with sumptuous fabrics and delicate colours. Terracotta floors, wrought iron balustrades and striking prints on the walls add to the ambiance.
+Built from local limestone and furnished in elegant, understated, Maltese style, the hotel is cool and airy with sumptuous fabrics and delicate colours. Terracotta floors, wrought iron balustrades and striking prints on the walls add to the ambiance.
 
 <img src="{{ '/images/malta/kempinski/kempinski-15.jpg' | prepend: SourceUrl }}" alt="kempinski-15.jpg">
 
