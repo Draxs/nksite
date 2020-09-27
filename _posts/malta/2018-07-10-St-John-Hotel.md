@@ -4,7 +4,7 @@ title:  "St. John Hotel"
 preview-title: "St. John Hotel"
 subtitle: "Malta"
 categories: malta
-excerpt: "This hotel is an oasis from the light and heat and noise of urban life. A true boutique hotel in the city centre, The Saint John offers a lovely bar and cafe restaurant as well as being well located for the best Valletta has to offer " 
+excerpt: "This hotel is an oasis from the light and heat and noise of urban life. A true boutique hotel in the city centre, The Saint John offers a lovely bar and cafe restaurant as well as being well located for the best" 
 image: /images/malta/St-John-Hotel/St-John-Hotel.jpg
 permalink: /St-John-Hotel/
 ---
