@@ -21,7 +21,7 @@ permalink: /Perfect-Little-Black-Dress/
         <div class="post-right-image" style="background: url(../images/fashion/Perfect-Little-Black-Dress.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>
 
  My choice, from the many gorgeous dresses available, is this beautiful and sexy halter neck dress with a dipped back and deep V front. Perfect for showing off your tan! The waterfall layering of the fabric at the front works on both large busted girls as well as the less well endowed and pulls your waist in to create an amazing ‘ hourglass’ silhouette.
 

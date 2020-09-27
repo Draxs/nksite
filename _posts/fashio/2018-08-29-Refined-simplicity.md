@@ -37,4 +37,4 @@ Hello autumn but it’s not quite farewell summer yet.
 
 <img src="{{ '/images/fashion/pastels/pastels-4.jpg' | prepend: SourceUrl }}" alt="pastels-4.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

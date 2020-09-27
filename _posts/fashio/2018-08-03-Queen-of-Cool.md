@@ -26,4 +26,4 @@ permalink: /Queen-of-Cool/
         <div class="post-right-image" style="background: url(../images/fashion/Queen-of-Cool-2.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 600px !important"></div>
     </div>
 </div>
-<a href="https://www.instagram.com/ekaterina_kuntner/" target="_blank">Photo by Ekaterina Kuntner</a>
+<a href="https://www.instagram.com/ekaterina_kuntner/" target="_blank">Photos by Ekaterina Kuntner</a>

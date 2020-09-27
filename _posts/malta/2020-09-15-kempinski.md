@@ -120,4 +120,4 @@ If you need a place to unwind, to re-charge your batteries or even just to remin
 
 <img src="{{ '/images/malta/kempinski/kempinski-4.jpg' | prepend: SourceUrl }}" alt="kempinski-4.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

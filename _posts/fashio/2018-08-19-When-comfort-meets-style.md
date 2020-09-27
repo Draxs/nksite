@@ -4,7 +4,7 @@ title:  "When comfort meets style"
 preview-title: "When comfort meets style"
 subtitle: "Fashion"
 categories: fashion
-excerpt: "There comes a time, in even the most dedicated fashionista’s life, when the word ‘comfort’ is the goal. However, comfort does not mean effort free but effortless: it means well-fitting clothes in beautiful fabrics" 
+excerpt: "There comes a time, in even the most dedicated fashionista’s life, when the word ‘comfort’ is the goal. However, comfort does not mean effort free but effortless: it means well-fitting clothes" 
 image: /images/fashion/When-comfort-meets-style.jpg
 permalink: /When-comfort-meets-style/
 ---

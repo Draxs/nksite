@@ -83,4 +83,4 @@ I love my floaty, romantic dress of nudey pink and grey. It is actually a really
 
 <img src="{{ '/images/malta/Palais-Le-Brun/Palais-Le-Brun-4.jpg' | prepend: SourceUrl }}" alt="Palais-Le-Brun-4.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

@@ -44,4 +44,4 @@ When you need a stand-out dress that makes you feel effortlessly special, then t
 
 <img src="{{ '/images/fashion/dressed-to-kill/dressed-to-kill-6.jpg' | prepend: SourceUrl }}" alt="dressed-to-kill-6.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

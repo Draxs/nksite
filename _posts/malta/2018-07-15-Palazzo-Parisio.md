@@ -64,4 +64,4 @@ A ball at the palace is true fairy-tale time so make the dress the star. My stun
 And, at the end of a perfect evening, the perfect boudoir. Palazzo Parisio, I love you
 
 <img src="{{ '/images/malta/palazzo-parisio/palazzo-parisio-15.jpg' | prepend: SourceUrl }}" alt="palazzo-parisio-15.jpg">
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

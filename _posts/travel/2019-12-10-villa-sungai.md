@@ -133,4 +133,4 @@ This is a gem of place and like nowhere I have every stayed before. Every tiny a
 
 <img src="{{ '/images/travel/villa-sungai/villa-sungai-22-w1200.jpg' | prepend: SourceUrl }}" alt="villa-sungai-22-w1200.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

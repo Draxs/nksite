@@ -35,4 +35,4 @@ Finally, the shoulder bag: my Karissa Lth is super soft nappa leather, comes in 
 
 <img src="{{ '/images/fashion/samsonite/samsonite-4.jpg' | prepend: SourceUrl }}" alt="samsonite-4.jpg">
 
-<a href="https://instagram.com/stnkvcmls?utm_source=ig_profile_share&igshid=jw57c6eevhdj" target="_blank">Photo by stnkvcmls</a>
+<a href="https://instagram.com/stnkvcmls?utm_source=ig_profile_share&igshid=jw57c6eevhdj" target="_blank">Photos by stnkvcmls</a>

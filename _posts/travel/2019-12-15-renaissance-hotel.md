@@ -118,4 +118,4 @@ This is a new hotel and so everything is pristine: you can feel that there is gr
     </div>
 </div>
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

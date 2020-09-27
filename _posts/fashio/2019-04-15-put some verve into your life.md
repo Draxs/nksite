@@ -42,4 +42,4 @@ The deep neckline is the perfect design to showcase long necklaces. I love the t
 
 <img src="{{ '/images/fashion/verve/verve-2-w1280.jpg' | prepend: SourceUrl }}" alt="verve-2-w1280.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

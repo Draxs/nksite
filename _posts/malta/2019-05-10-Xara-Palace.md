@@ -207,4 +207,4 @@ A trip to <a href="https://xarapalace.com.mt/" target="_blank">The Xara Palace</
 
 <img src="{{ '/images/malta/xara-palace/xara-palace-14.jpg' | prepend: SourceUrl }}" alt="xara-palace-14.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

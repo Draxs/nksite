@@ -142,4 +142,4 @@ If you want an unusual but truly authentic Balinese experience, you need to visi
 
 <img src="{{ '/images/travel/munduk-hotel/munduk-hotel-31-w1200.jpg' | prepend: SourceUrl }}" alt="munduk-hotel-31-w1200.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>

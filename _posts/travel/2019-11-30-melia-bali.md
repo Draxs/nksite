@@ -158,4 +158,4 @@ Kawasan Pariwisata ITDC Lot 1, Jl. Raya Nusa Dua Selatan, Benoa, South Kuta, Bad
 
 <img src="{{ '/images/travel/melia-bali/melia-bali-9-w1200.jpg' | prepend: SourceUrl }}" alt="melia-bali-9-w1200.jpg">
 
-<a href="https://www.instagram.com/simisu__/" target="_blank">Photo by Suzana Simijonovic</a>
+<a href="https://www.instagram.com/simisu__/" target="_blank">Photos by Suzana Simijonovic</a>
