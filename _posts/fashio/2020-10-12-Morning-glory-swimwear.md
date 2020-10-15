@@ -58,7 +58,7 @@ I particularly love the acknowledgement of Malta’s fabulous colours. Using a c
         <div class="post-left-image" style="background: url(../images/fashion/morning-glory-swimwear/morning-glory-4.jpg) no-repeat; background-size: cover; margin-right: 0.5rem; max-height: 630px !important"></div>
     </div>
     <div class="col-md-6 col-sm-12">
-        <div class="post-right-image" style="background: url(../images/fashion/morning-glory-swimwear/morning-glory-2.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 630px !important"></div>
+        <div class="post-right-image" style="background: url(../images/fashion/morning-glory-swimwear/morning-glory-13.jpg) no-repeat; background-size: cover; margin-left: 0.5rem; max-height: 630px !important"></div>
     </div>
 </div>
 
